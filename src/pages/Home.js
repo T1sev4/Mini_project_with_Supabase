@@ -23,7 +23,6 @@ const Home = () => {
     fetchSmoothies()
   }, [])
   
-  console.log(supabase);
 
   return (
     <div className="page home">
